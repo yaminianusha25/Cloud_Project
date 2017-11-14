@@ -1,0 +1,6 @@
+For one thread , Float operation :0.006258
+For two threads , Float operation:0.011491
+For four threads , Float Operations:0.027012
+For one thread , Integer operation :0.004740
+For two threads , Integer operation:0.009600
+For four threads , Integer Operations:0.031646
